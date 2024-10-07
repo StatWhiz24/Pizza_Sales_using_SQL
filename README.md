@@ -1,6 +1,8 @@
 # Pizza Sales Analysis - SQL Query Tasks
 
 This README outlines a set of SQL tasks designed to analyze pizza sales data. The tasks are divided into three categories: Basic, Intermediate, and Advanced.
+![Pizza Sales Analysis](pizza.png)
+
 
 ## Basic SQL Queries:
 1. Retrieve the total number of orders placed.
