@@ -1,3 +1,4 @@
+-- Rohit K Sahu  
 -- Basic:
 -- Retrieve the total number of orders placed.
 
@@ -103,7 +104,7 @@ GROUP BY pizza_types.category
 ORDER BY revenue DESC;
 
 
--- Analyze the cumulative revenue generated over time.
+-- Analyze the cumulative revenue generated over time. Rohit K Sahu 
 
 SELECT 
   order_date, 
